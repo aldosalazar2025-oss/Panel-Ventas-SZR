@@ -1,0 +1,48 @@
+name: panel_szr_ventas
+description: "Panel SZR Ventas: punto de venta e inventario para Windows."
+publish_to: 'none'
+version: 3.1.0+2
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  sqflite_common_ffi: ^2.4.5
+  path: ^1.9.1
+  path_provider: ^2.1.6
+  intl: ^0.20.2
+  google_fonts: ^6.2.1
+  provider: ^6.1.4
+  uuid: ^4.5.1
+  share_plus: ^11.0.0
+  shared_preferences: ^2.5.3
+  image_picker: ^1.2.3
+  excel: ^4.0.6
+  archive: ^3.6.1
+  file_picker: ^8.1.4
+  audioplayers: ^6.7.1
+  url_launcher: ^6.3.1
+  barcode: ^2.2.9
+  barcode_image: ^2.0.3
+  barcode_widget: ^2.0.4
+  image: ^4.3.0
+  pdf: ^3.11.3
+  printing: ^5.13.4
+  flutter_colorpicker: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icon/
+    - assets/sounds/
+    - assets/szr_ventas.png
+    - assets/logo.png
