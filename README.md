@@ -30,43 +30,33 @@ Elige 58 u 80 mm según tu rollo.
 Los datos se guardan en la carpeta de datos del usuario, fuera del proyecto.
 
 
+
 # 🛒 PANEL SZR VENTAS
 
-### Sistema de gestión de ventas
+### Sistema de gestión de ventas para PC
 
-Aplicación de escritorio diseñada para facilitar la administración y el control de ventas desde una computadora con Windows.
-
----
+Aplicación de escritorio para facilitar la administración y el control de ventas desde una computadora con Windows.
 
 ## 📥 Descargar programa
 
-### 💻 PANEL SZR VENTAS para Windows
+### 💻 Windows
 
-[⬇️ **DESCARGAR PANEL SZR VENTAS (.EXE)**](https://github.com/aldosalazar2025-oss/PanelVentasSzr/releases/latest)
+[⬇️ DESCARGAR PANEL SZR VENTAS (.EXE)](https://github.com/aldosalazar2025-oss/Panel-Ventas-SZR/releases/download/1.1.1/Panel.Ventas.SZR.exe)
 
 **Versión:** 1.1.1  
 **Tamaño:** 15.3 MB  
 **Plataforma:** Windows PC
 
----
-
 ## 🚀 Instalación
 
 1. Haz clic en el enlace de descarga.
-2. Descarga el archivo `Panel.Ventas.SZR.exe`.
+2. Espera a que se descargue `Panel.Ventas.SZR.exe`.
 3. Abre el archivo descargado.
 4. Sigue las instrucciones que aparezcan en pantalla.
 
 ## 📋 Información del proyecto
 
 - **Nombre:** PANEL SZR VENTAS
-- **Tipo:** Aplicación de escritorio
 - **Sistema operativo:** Windows
 - **Formato:** `.exe`
-
----
-
-## 👨‍💻 Proyecto
-
-PANEL SZR VENTAS está destinado a facilitar la gestión de ventas desde una computadora.
 
